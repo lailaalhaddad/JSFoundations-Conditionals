@@ -3,6 +3,7 @@ let num1 = 2;
 let num2 = 8;
 let op = "*";
 let result;
+
 // Write if-statements here
 if (op == "+") {
     result = num1 + num2;
