@@ -4,7 +4,8 @@ let num2 = 8;
 let op = "*";
 // Write if-statements here
 if (op == "*") {
-    console.log( num1 + op + num2 + " = 16"); 
+    let result = num1 * num2;
+    console.log(result); 
 } else{
     console.log("operation failed")
 }
